@@ -8,7 +8,7 @@
 # oop introduction 
 
 * [Product Management example](https://github.com/OzerBey/JavaReactCamp/tree/main/oopIntro/src/oopIntro)
-* [Fields and Attribute](https://github.com/OzerBey/JavaReactCamp/tree/main/fieldsAndAttribute/src/classesWithAttributes)
+* [Fields and Attributes](https://github.com/OzerBey/JavaReactCamp/tree/main/fieldsAndAttribute/src/classesWithAttributes)
 
 # Licence
 
