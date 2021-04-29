@@ -8,3 +8,7 @@
 # oop introduction 
 
 * [Product Management example](https://github.com/OzerBey/JavaReactCamp/tree/main/oopIntro/src/oopIntro)
+
+# Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
