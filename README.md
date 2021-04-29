@@ -11,4 +11,4 @@
 
 # Licence
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/OzerBey/JavaReactCamp/blob/main/LICENCE.txt)
