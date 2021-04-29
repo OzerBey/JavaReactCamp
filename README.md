@@ -9,6 +9,7 @@
 
 * [Product Management example](https://github.com/OzerBey/JavaReactCamp/tree/main/oopIntro/src/oopIntro)
 * [Fields and Attributes](https://github.com/OzerBey/JavaReactCamp/tree/main/fieldsAndAttribute/src/classesWithAttributes)
+* [Value and Reference Types](https://github.com/OzerBey/JavaReactCamp/tree/main/classes/src/classes)
 
 # Licence
 
