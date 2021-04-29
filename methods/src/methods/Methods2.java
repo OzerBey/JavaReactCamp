@@ -1,7 +1,7 @@
 package methods;
 
 public class Methods2 { // with parameter methods
-
+	// variable arguments
 	public static void main(String[] args) {
 		// System.err.println(getDoubleRandomNumber()); //as error message
 		System.out.println(sumNumbersWithoutArray(1, 2, 3, 4, 5, 6, 7, 8, 9, 10));
@@ -32,7 +32,6 @@ public class Methods2 { // with parameter methods
 			sum += i;
 		}
 		return sum;
-
 	}
 
 	public static double getDoubleRandomNumber() {
