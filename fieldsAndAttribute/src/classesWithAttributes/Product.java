@@ -10,6 +10,19 @@ public class Product {
 	private double price;
 	private int stockAmount;
 
+	public Product() { // constructor without parameters
+
+	}
+
+	public Product(int id, String name, String color, String description, double price, int stockAmount) {
+		this.id = id;
+		this.name = name;
+		this.color = color;
+		this.description = description;
+		this.price = price;
+		this.stockAmount = stockAmount;
+	}
+
 	// getter/return operations
 	public int getId() {
 		return id;
