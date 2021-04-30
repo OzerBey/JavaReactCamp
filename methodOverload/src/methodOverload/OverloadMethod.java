@@ -10,7 +10,7 @@ public class OverloadMethod {
 		return num1 + num2 + num3;
 	}
 
-	public int add(int... nums) { // multi paramteres
+	public int add(int... nums) { // multi parameters
 		int sum = 0;
 		for (int i : nums) {
 			sum += i;

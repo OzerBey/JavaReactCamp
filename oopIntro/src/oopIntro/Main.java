@@ -7,27 +7,26 @@ public class Main {
 		Product product2 = new Product(); // instance creation
 		Product product3 = new Product(); // instance creation
 
-		product1.id = 1;
-		product1.name = "LenovoV14";
-		product1.unitPrice = 15000;
-		product1.detail = "8 GB RAM";
+		// product1
+		product1.setId(1);
+		product1.setName("AsusFx504");
+		product1.setUnitPrice(6500);
+		product1.setDetail("8 GB RAM & 1TB HDD");
+		product1.setDiscount(10);
 
-		product2.id = 2;
-		product2.name = "LenovoV15";
-		product2.unitPrice = 17000;
-		product2.detail = "16 GB RAM";
+		System.out.println(product2.getUnitPriceAfterDiscount());
 
-		product3.id = 2;
-		product3.name = "Asus FX504GD";
-		product3.unitPrice = 17000;
-		product3.detail = "32 GB RAM";
+		//productManagement(product1, product2, product3);
 
+	}
+
+	private static void productManagement(Product product1, Product product2, Product product3) {
 		Product products[] = { product1, product2, product3 };
 
 		System.out.println("number of products :" + products.length);
 
 		for (Product product : products) {
-			System.out.println(product.id + " " + product.name);
+			System.out.println(product.getId() + " " + product.getName());
 		}
 		Category category1 = new Category();
 		category1.id = 1;
@@ -48,6 +47,5 @@ public class Main {
 		productManager.addToCart(product2);
 		// 3rd product
 		productManager.addToCart(product3);
-
 	}
 }
