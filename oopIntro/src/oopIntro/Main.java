@@ -14,9 +14,21 @@ public class Main {
 		product1.setDetail("8 GB RAM & 1TB HDD");
 		product1.setDiscount(10);
 
-		System.out.println(product2.getUnitPriceAfterDiscount());
+		System.out.println(product1.getUnitPriceAfterDiscount());
 
-		//productManagement(product1, product2, product3);
+		// for categoty1
+		Category category1 = new Category();
+		category1.setId(1);
+		category1.setName("Teknology");
+
+		// for category2
+		Category category2 = new Category();
+		category2.setId(2);
+		category2.setName("Home tools");
+
+		System.out.println(category1.getName());
+		System.out.println(category2.getName());
+		// productManagement(product1, product2, product3);
 
 	}
 
@@ -29,16 +41,16 @@ public class Main {
 			System.out.println(product.getId() + " " + product.getName());
 		}
 		Category category1 = new Category();
-		category1.id = 1;
-		category1.name = "Computer";
+		category1.setId(1);
+		category1.setName("Computer");
 
 		Category category2 = new Category();
-		category2.id = 2;
-		category2.name = "Garden";
+		category2.setId(2);
+		category2.setName("Garden");
 
 		Category category3 = new Category();
-		category3.id = 3;
-		category3.name = "Livingroom ";
+		category3.setId(3);
+		category3.setName("Livingroom");
 
 		ProductManager productManager = new ProductManager();
 		// 1st product
