@@ -24,6 +24,12 @@
 
 * [Logger example](https://github.com/OzerBey/JavaReactCamp/tree/main/polymorphismDemo/src/polymorphismDemo)
 
+# Homeworks
+
+1. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework1)
+2. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework2)
+
+
 # Licence
 
 [MIT](https://github.com/OzerBey/JavaReactCamp/blob/main/LICENCE.txt)
