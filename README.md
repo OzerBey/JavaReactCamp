@@ -20,6 +20,10 @@
 * [Basic inheritance example](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritance/src/inheritance)
 * [Inheritance and method override](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritanceV2/src/inheritanceV2)
 
+# Polymorphism 
+
+* [Logger example](https://github.com/OzerBey/JavaReactCamp/tree/main/polymorphismDemo/src/polymorphismDemo)
+
 # Licence
 
 [MIT](https://github.com/OzerBey/JavaReactCamp/blob/main/LICENCE.txt)
