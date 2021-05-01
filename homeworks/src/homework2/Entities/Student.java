@@ -4,6 +4,15 @@ public class Student extends User {
 
 	private int numberOfCourses;
 
+	public Student() {
+
+	}
+
+	public Student(int numberOfCourses) {
+		super();
+		this.numberOfCourses = numberOfCourses;
+	}
+
 	public int getNumberOfCourses() {
 		return numberOfCourses;
 	}

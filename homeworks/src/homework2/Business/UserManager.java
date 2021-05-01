@@ -13,6 +13,10 @@ public class UserManager { // Base manager class
 	}
 
 	public void showProfile(User user) {
-		System.out.println("Profile of "+user.getFirstName()+" showed");
+		System.out.println("Profile of " + user.getFirstName() + " showed");
+	}
+
+	public void editComment() {
+		System.out.println("Your comment edited :)");
 	}
 }

@@ -28,6 +28,10 @@ public class Main {
 		student.seteMail("yasinozeriletisim@gmail.com");
 		student.setNumberOfCourses(3);
 
+		// user control panel
+		System.out.println(student.getNumberOfCourses());
+		System.out.println(instructor.getNumberOfStudent());
+
 		UserManager userManager = new UserManager();
 		userManager.doComment(instructor);
 		userManager.doComment(student);
@@ -36,10 +40,13 @@ public class Main {
 
 		StudentManager studentManager = new StudentManager();
 		studentManager.completionCourse(student);
+		studentManager.editComment();
+		studentManager.doComment(student);
 
-		InstructorManager userManager2 = new InstructorManager();
-		userManager2.sendPhoto(instructor);
-		userManager2.deleteStudent(student);// retrun alert message
+		InstructorManager instructorManager = new InstructorManager();
+		instructorManager.sendPhoto(instructor);
+		instructorManager.deleteStudent(student);// return alert message
+		instructorManager.publishCourse();
 
 	}
 
