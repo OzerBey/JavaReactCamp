@@ -42,6 +42,7 @@ public class Main {
 		studentManager.completionCourse(student);
 		studentManager.editComment();
 		studentManager.doComment(student);
+		studentManager.sendPhoto(student);
 
 		InstructorManager instructorManager = new InstructorManager();
 		instructorManager.sendPhoto(instructor);
