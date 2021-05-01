@@ -1,4 +1,10 @@
-package homework2;
+package homework2.UI;
+
+import homework2.Business.InstructorManager;
+import homework2.Business.StudentManager;
+import homework2.Business.UserManager;
+import homework2.Entities.Instructor;
+import homework2.Entities.Student;
 
 public class Main {
 

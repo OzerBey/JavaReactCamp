@@ -1,4 +1,4 @@
-package homework2;
+package homework2.Entities;
 
 public class Instructor extends User {
 

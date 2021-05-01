@@ -1,4 +1,4 @@
-package homework2;
+package homework2.Entities;
 
 public class User { // Base class
 
@@ -8,6 +8,9 @@ public class User { // Base class
 	private String imagePath;
 	private String eMail;
 
+	public User() { // constructor without parameters
+
+	}
 
 	public User(int id, String firstName, String lastName, String imagePath, String eMail) {
 		super();

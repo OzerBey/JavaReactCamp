@@ -1,4 +1,6 @@
-package homework2;
+package homework2.Business;
+
+import homework2.Entities.Student;
 
 public class StudentManager extends UserManager {
 
