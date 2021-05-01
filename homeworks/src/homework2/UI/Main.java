@@ -14,7 +14,7 @@ public class Main {
 		instructor.setId(1);
 		instructor.setFirstName("Engin");
 		instructor.setLastName("Demiroğ");
-		instructor.setPhoto("https://blabla");
+		instructor.setImagePath("https://blabla.com");
 		instructor.seteMail("ngDmrg@abc.com");
 		instructor.setInstructorNumber("12345");
 		instructor.setNumberOfStudent(10000);
@@ -24,7 +24,7 @@ public class Main {
 		student.setId(2);
 		student.setFirstName("Yasin");
 		student.setLastName("Özer");
-		student.setPhoto("https://");
+		student.setImagePath("https://blabla.com");
 		student.seteMail("yasinozeriletisim@gmail.com");
 		student.setNumberOfCourses(3);
 
@@ -36,7 +36,8 @@ public class Main {
 		userManager.doComment(instructor);
 		userManager.doComment(student);
 		userManager.sendPhoto(student);
-		userManager.showProfile(instructor);
+		userManager.showProfile(student);
+		userManager.showProfile(student);
 
 		StudentManager studentManager = new StudentManager();
 		studentManager.completionCourse(student);

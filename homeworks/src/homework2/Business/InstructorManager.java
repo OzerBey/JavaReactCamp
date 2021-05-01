@@ -1,6 +1,6 @@
 package homework2.Business;
 
-import homework2.Entities.User;
+import homework2.Entities.Student;
 
 public class InstructorManager extends UserManager {
 
@@ -8,7 +8,7 @@ public class InstructorManager extends UserManager {
 		System.out.println(" published course");
 	}
 
-	public void deleteStudent(User user) {
-		System.err.println(user.getFirstName() + " deleted !");
+	public void deleteStudent(Student student) {
+		System.err.println(student.getFirstName() + " deleted !");
 	}
 }
