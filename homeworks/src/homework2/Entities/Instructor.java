@@ -6,18 +6,14 @@ public class Instructor extends User {
 	private int numberOfStudent;
 
 	public Instructor() {
-		
+
 	}
-	
-	
-	
+
 	public Instructor(String instructorNumber, int numberOfStudent) {
 		super();
 		this.instructorNumber = instructorNumber;
 		this.numberOfStudent = numberOfStudent;
 	}
-
-
 
 	public String getInstructorNumber() {
 		return instructorNumber;

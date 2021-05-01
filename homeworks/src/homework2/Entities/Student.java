@@ -4,6 +4,7 @@ public class Student extends User {
 
 	private int numberOfCourses;
 
+	
 	public Student() {
 
 	}
