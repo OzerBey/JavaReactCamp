@@ -24,6 +24,13 @@
 
 * [Logger example](https://github.com/OzerBey/JavaReactCamp/tree/main/polymorphismDemo/src/polymorphismDemo)
 
+# Lectures
+
+* [Lecture 1](https://github.com/OzerBey/JavaReactCamp/tree/main/classes/src/classes/valueAndReferenceTypes)
+* [Lecture 2](https://github.com/OzerBey/JavaReactCamp/tree/main/oopIntro/src/oopIntro) 
+* [Lecture 3](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritance/src)
+* [Lecture 4](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritanceV2/src)
+
 # Homeworks
 
 1. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework1)
