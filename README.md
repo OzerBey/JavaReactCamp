@@ -8,7 +8,6 @@
 
 # Class
 
-  <hr>
 <details>
   <summary>Hakkında </summary><br>
   Java nesne yönelimli (OOP) bir programlama dilidir.
@@ -49,9 +48,10 @@ En temel class (sınıf) object sınıfıdır diğer bütün sınıfların atas�
 - [classes](https://github.com/OzerBey/JavaReactCamp/tree/main/classes/src)
 - [static & inner class](https://github.com/OzerBey/JavaReactCamp/tree/main/staticDemo/src/staticDemo)
 
+<hr>
+
 # OOP introduction
 
-  <hr>
   
 <details>
   <summary>Hakkında</summary><br>
@@ -80,9 +80,12 @@ En temel class (sınıf) object sınıfıdır diğer bütün sınıfların atas�
 - [Fields and Attributes](https://github.com/OzerBey/JavaReactCamp/tree/main/fieldsAndAttribute/src/classesWithAttributes)
 - [Value and Reference Types](https://github.com/OzerBey/JavaReactCamp/tree/main/classes/src/classes)
 
+
+<hr>
+
 # Inheritance
 
-  <hr>
+
   
 <details>
   <summary>Hakkında</summary><br>
@@ -108,10 +111,10 @@ Extends: Herhangi bir sınıfın özelliklerini ve işlevlerini miras olarak alm
 - [Basic inheritance example](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritance/src/inheritance)
 - [Inheritance and method override](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritanceV2/src/inheritanceV2)
 
+<hr>
+
 # Polymorphism
 
- <hr>
-  
 <details>
   <summary>Hakkında</summary><br>
   
@@ -210,10 +213,12 @@ Kampa katildiniz
 
 - [Logger example](https://github.com/OzerBey/JavaReactCamp/tree/main/polymorphismDemo/src/polymorphismDemo)
 
+
+<hr>
+
 # Abstraction
 
-  <hr>
-  
+
 <details>
   <summary>Hakkında</summary><br>
   
@@ -235,10 +240,10 @@ Kampa katildiniz
 - [Game calculator example](https://github.com/OzerBey/JavaReactCamp/tree/main/abstractClasses/src/abstractClasses)
 - [Database Demo](https://github.com/OzerBey/JavaReactCamp/tree/main/abstractClasses/src/abstractDemo)
 
+<hr>
+  
 # Interface
 
-  <hr>
-  
 <details>
   <summary>Hakkında</summary><br>
   
@@ -261,6 +266,10 @@ Bir çok class tarafından implement edilebilirlen yapılardır. Birden fazla in
 - [Logger Example](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaces/src/interfaces)
 - [Database example](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaces/src/interfaces02)
 - [Cafe management demonstrate using Mernis](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaceAbstractDemo/src/interfaceAbstractDemo)
+
+
+<hr>
+  
 # Lectures
 
 - [Lecture 1](https://github.com/OzerBey/JavaReactCamp/tree/main/classes/src/classes/valueAndReferenceTypes)
@@ -268,12 +277,17 @@ Bir çok class tarafından implement edilebilirlen yapılardır. Birden fazla in
 - [Lecture 3](https://github.com/OzerBey/JavaReactCamp/tree/main/inheritance/src)
 - [Lecture 4](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaces/src/interfaces)
 
+
+<hr>
+  
 # Homeworks
 
 1. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework1)
 2. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework2)
 3. [Coming soon..](https://github.com/OzerBey/JavaReactCamp)
 
+<hr>
+  
 # Licence
 
 [MIT](https://github.com/OzerBey/JavaReactCamp/blob/main/LICENCE.txt)
