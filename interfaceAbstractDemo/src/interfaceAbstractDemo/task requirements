@@ -1,0 +1,7 @@
+Kahve dükkanları için müşteri yönetimi için bir sistem yazmak istiyoruz
+Starbucks ve Nero firmalari için çalışıyoruz
+iki firmada müşterilerini veri tabanına kaydetmek istiyor 
+Starbucks müşterileri kaydederken, mutlaka mernis dogurlaması istiyor. Nero müşterileri kaydederken böyle bir şey istemiyor
+Ayrıca Starbucks müşteriler için her kahve alımında yıldız kazandrımak istiyor..
+
+Veri tabanına verileri eklemede çözüm olarak aynı tabloya eklenme simüle edilmştir.
