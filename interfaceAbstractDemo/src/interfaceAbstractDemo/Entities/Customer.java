@@ -1,8 +1,5 @@
 package interfaceAbstractDemo.Entities;
 
-import java.time.LocalDate;
-import java.util.Date;
-
 import interfaceAbstractDemo.Interfaces.Entity;
 
 public class Customer implements Entity {
@@ -10,13 +7,13 @@ public class Customer implements Entity {
 	private String identityNumber;
 	private String firstName;
 	private String lastName;
-	private LocalDate dateOfBirth;
+	private int dateOfBirth;
 
 	public Customer() {
 
 	}
 
-	public Customer(int id, String identityNumber, String firstName, String lastName, LocalDate dateOfBirth) {
+	public Customer(int id, String identityNumber, String firstName, String lastName, int dateOfBirth) {
 		super();
 		this.id = id;
 		this.identityNumber = identityNumber;
@@ -49,11 +46,11 @@ public class Customer implements Entity {
 		this.lastName = lastName;
 	}
 
-	public LocalDate getDateOfBirth() {
+	public int getDateOfBirth() {
 		return dateOfBirth;
 	}
 
-	public void setDateOfBirth(LocalDate dateOfBirth) {
+	public void setDateOfBirth(int dateOfBirth) {
 		this.dateOfBirth = dateOfBirth;
 	}
 

@@ -16,5 +16,4 @@ public class Main {
 				1998); // year of birth
 		System.err.println("Result of query: " + (resultMernis ? "Person is a real " : "Not a real person"));
 	}
-
 }
