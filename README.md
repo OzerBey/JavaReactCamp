@@ -257,9 +257,10 @@ Bir çok class tarafından implement edilebilirlen yapılardır. Birden fazla in
 
 </details>
 
+
 - [Logger Example](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaces/src/interfaces)
 - [Database example](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaces/src/interfaces02)
-
+- [Cafe managemen demo with Mernis](https://github.com/OzerBey/JavaReactCamp/tree/main/interfaceAbstractDemo/src/interfaceAbstractDemo)
 # Lectures
 
 - [Lecture 1](https://github.com/OzerBey/JavaReactCamp/tree/main/classes/src/classes/valueAndReferenceTypes)
