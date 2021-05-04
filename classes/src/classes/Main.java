@@ -3,6 +3,14 @@ package classes;
 // properties of classes are grouping and feature holder
 public class Main {
 
+	static int fibonacci(int n) {
+		if (n <= 1) {
+			return n;
+		} else {
+			return fibonacci(n - 1) + fibonacci(n - 2);
+		}
+	}
+
 	public static void main(String[] args) {
 		Customer customer1 = new Customer(1, "Yasin", "Ozer", 1500);
 		Customer customer2 = new Customer();
@@ -15,5 +23,6 @@ public class Main {
 		customerManager.add(customer1);
 		customerManager.add(customer2);
 
+		System.err.println(fibonacci(6));
 	}
 }
