@@ -11,3 +11,5 @@ Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. Nesnelere ait ö
 3.     Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
 
 4.     Satışlarda kampanya entegrasyonunu simule ediniz.
+
+![homework3uml](https://user-images.githubusercontent.com/49093196/117016515-75ea7300-acfb-11eb-9e4d-64ffdfcea9c2.png)

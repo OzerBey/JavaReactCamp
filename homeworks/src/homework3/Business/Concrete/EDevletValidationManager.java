@@ -1,6 +1,6 @@
-package homework3.Adapters;
+package homework3.Business.Concrete;
 
-import homework3.Business.Abstract.EDevletValidationService;
+import homework3.Adapters.EDevletValidationService;
 import homework3.Entities.Concrete.Player;
 import tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy;
 
@@ -23,8 +23,8 @@ public class EDevletValidationManager implements EDevletValidationService {
 	}
 
 	/*
-	 * @Override public boolean CheckIfRealPerson(Player player) { // fake
-	 * validation
+	 * @Override public boolean CheckIfRealPerson(Player player) { // fake validation
+	 * 
 	 * 
 	 * if (player.getIdentityNumber().length() == 11 &&
 	 * player.getFirstName().length() >= 3 &&

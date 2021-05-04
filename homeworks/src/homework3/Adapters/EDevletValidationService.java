@@ -1,4 +1,4 @@
-package homework3.Business.Abstract;
+package homework3.Adapters;
 
 import homework3.Entities.Concrete.Player;
 

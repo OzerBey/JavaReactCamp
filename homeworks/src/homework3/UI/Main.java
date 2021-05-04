@@ -1,6 +1,7 @@
 package homework3.UI;
 
 import homework3.Business.Concrete.CampaignManager;
+import homework3.Business.Concrete.EDevletValidationManager;
 import homework3.Business.Concrete.GameManager;
 import homework3.Business.Concrete.GameSaleManager;
 import homework3.Business.Concrete.PlayerManager;
@@ -58,8 +59,9 @@ public class Main {
 		campaignManager.add(summerSale);
 		campaignManager.delete(studentSale);
 
-		PlayerManager playerManager = new PlayerManager();
-		playerManager.add(new Player(1, "1491084", "veli", "osman", "1998"));
+		PlayerManager playerManager = new PlayerManager(new EDevletValidationManager());
+		playerManager.add(ozer);
+		playerManager.add(yasin);
 
 		GameManager gameManager = new GameManager();
 		gameManager.add(new Game(1, "rocketLeague", "2019", "100"));
