@@ -1,3 +1,5 @@
+# Homework requirements
+
 Kodlama.io sitesine gidiniz.
 Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
 Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz.

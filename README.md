@@ -284,7 +284,7 @@ Bir çok class tarafından implement edilebilirlen yapılardır. Birden fazla in
 
 1. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework1)
 2. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework2)
-3. [Coming soon..](https://github.com/OzerBey/JavaReactCamp)
+3. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework3)
 
 <hr>
   

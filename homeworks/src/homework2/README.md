@@ -1,3 +1,5 @@
+# Homework requirements :
+
 Kodlama.io projesini yazdığınızı düşünelim.
 
 User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance)
