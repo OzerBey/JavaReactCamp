@@ -9,7 +9,7 @@
 # Class
 
 <details>
-  <summary>Hakkında </summary><br>
+  <summary>More... </summary><br>
   Java nesne yönelimli (OOP) bir programlama dilidir.
   Java'da her şey, nitelikleri, özellikleri veya durumlarıyla sınıflar(class) ve nesnelerle ilgilidir.
 
@@ -54,7 +54,7 @@ En temel class (sınıf) object sınıfıdır diğer bütün sınıfların atas�
 
   
 <details>
-  <summary>Hakkında</summary><br>
+  <summary>More...</summary><br>
   
   **Object Oriented Programming (OOP)/ Nesne Yönelimli Proramlama nedir?** 
 
@@ -88,7 +88,7 @@ En temel class (sınıf) object sınıfıdır diğer bütün sınıfların atas�
 
   
 <details>
-  <summary>Hakkında</summary><br>
+  <summary>More...</summary><br>
   
   **Inheritance (miras) nedir?** 
     Bir sınıfın kendisine ait özellikleri ve işlevleri bir başka sınıfa aynen aktarması ya da bazı özellik ve işlevlerini diğer sınıfların kullanmasına izin vermesi şeklinde oluşmaktadır.
@@ -116,7 +116,7 @@ Extends: Herhangi bir sınıfın özelliklerini ve işlevlerini miras olarak alm
 # Polymorphism
 
 <details>
-  <summary>Hakkında</summary><br>
+  <summary>More...</summary><br>
   
   **Polimorphism (çok biçimlilik) nedir?** 
    Polymorphism(polimorfizm), bir varlık ya da nesnenin birden fazla forma sahip olması olarak adlandırılır. Yani oluşturduğumuz bir nesne kendisi gibi değil de başka bir nesne gibi davranıyorsa buna polymorphism yani çok biçimlilik diyoruz. Kalıtım konusu ile ilişkili bir kavramdır.
@@ -220,7 +220,7 @@ Kampa katildiniz
 
 
 <details>
-  <summary>Hakkında</summary><br>
+  <summary>More...</summary><br>
   
   **Abstraction (soyutlama) nedir?** 
    Abstract sınıflar,genellikle ortak özellikleri olan nesneleri tek bir çatı altında toplamak için kullanılır. Abstract sınıflarda içi boş yada dolu metodlar tanımlanır. Abstract sınıflardan new kelimesi ile nesne oluşturulmaz. En az 1 abstract metod varsa sınıf abstract olmalıdır. Bir sınıfı abstract sınıf yapmak için abstract kelimesi kullanılır
@@ -245,7 +245,7 @@ Kampa katildiniz
 # Interface
 
 <details>
-  <summary>Hakkında</summary><br>
+  <summary>More...</summary><br>
   
   **Interface (arayüz) nedir?** 
 
