@@ -169,7 +169,8 @@ Ve olayın gerçekleşeceği ve kavraacağımız bir sınıf oluşturup uygulaya
 ```java
 public class Polimorphism {
 
-	public static void kampaKatil(JavaReactCamp kamp) { // buradaki static kavramı static metotlar static olanların
+	public static void kampaKatil(JavaReactCamp kamp) { 
+														// buradaki static kavramı static metotlar static olanların
 														// içinde çağrılabildiği (kullanılabildiği) için kullandım yani
 														// mainde instance oluşturmak yerine Sınıf ismiyle çağırmak için
 														// tavsiye edilmeyen bir yöntemdir bu ama kodlar açık olsun diye
