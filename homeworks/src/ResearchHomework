@@ -1,0 +1,24 @@
+Java dilinde veri tipleri ;
+
+1)	İlkel Veri Tipleri : Genellikle sayısal veriler için kullanılır ve kendi aralarında; 
+ a) Sayısal Veri Tipleri
+                b) Mantıksal Veri Tipleri
+                c) Tamsayı veri tipleri
+                   - byte :  en küçük tamsayı  tipidir. -128 ile 127 arasındaki değerlerde kullanılır.
+                    -short:  -32768 ile 32767 arasındaki değerlerde kullanılır. 
+               -int :  en çok kullanılan veri tipidir orta uzunluktaki sayılar için ve genellikle bir tamsayı gereksiniminde kullanılır.
+                    - long : çok uzun sayılarda kullanılır. Örneğin ışık hızı ilemişlem yapılacak bir programda sonuç int sınırını aşar bu sebeple bu gibi durumlarda long daha iyi  bir seçenektir.
+               d)Kesirli sayı tipleri 
+                    -float: virgülden sonra 7 haneye kadar kullanılır.Küçük işlemlerde kullanılabilir ,örneğin para hesaplarında.
+                    -double: virgülden sonra 17 haneye kadar kullanılır.Üst düzey matematiksel işlemlerde kullanılır.Math küyüphanesindeki fonksiyonlarda hep bu tip değişkenler kullanılır.
+             
+               e) char :  Javada karakterleri temsil eden değerlerdir.
+ 
+               f ) boolean: sadece true ve false değerlerini alabilir.
+
+        2)    Referans Tipler
+                    - class
+                    -interface
+                    -array
+
+1)	   Null Tip: Herhangi bir değere sahip olamama durumunda verilen isimdir.
