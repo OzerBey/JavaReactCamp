@@ -40,3 +40,7 @@ Users (Zorunlu olan alanlar) :
 * Sisteme giriş (Login) e posta ve şifre ile giriş. Zorunlu alanlar hatalı veya doğruluk durumunda kullanıcıya bilgi mesajı yolla
 
 # **[Regex (Regular Expressions) kaynak](https://ceaksan.com/tr/regex-regular-expressions-nedir)**
+
+# Output
+
+![outputForHomework4](https://user-images.githubusercontent.com/49093196/117549795-0d75fb80-b045-11eb-9043-6e85f68b6e55.jpg)
