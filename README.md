@@ -283,11 +283,11 @@ Bir çok class tarafından implement edilebilirlen yapılardır. Birden fazla in
 <hr>
   
 # Homeworks
-
-1. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework1)
-2. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework2)
-3. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework3)
-4. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework4)
+1. [Homework](https://github.com/OzerBey/JavaReactCamp/blob/main/homeworks/src/ResearchHomework)
+2. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework1)
+3. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework2)
+4. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework3)
+5. [Homework](https://github.com/OzerBey/JavaReactCamp/tree/main/homeworks/src/homework4)
 <hr>
   
 # Licence
