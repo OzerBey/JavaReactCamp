@@ -32,7 +32,7 @@ public class AuthManager implements AuthService {
 			userService.add(user);
 
 		} else
-			System.err.println("Registration failed");
+			System.err.println("Registration failed for "+user.getFirstName());
 	}
 
 	@Override
@@ -79,9 +79,10 @@ public class AuthManager implements AuthService {
 			// System.out.println("pasword 6 log");
 			validPassword = true;
 
-		} else
+		} else {
 			System.err.println("Your password must be at least 6 character !");
-		validPassword = false;
+			validPassword = false;
+		}
 		return validPassword;
 
 	}
